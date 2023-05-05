@@ -10,7 +10,7 @@ How to use:
 It might take a couple seconds to start up, so please be patient.
 After starting, Kazumi will walk, run, and jump around the edges of your screen. You can also drag him around by clicking and holding while moving the mouse.
 Unlike a typical Shimeji, he will NOT grab your windows and throw them around. He's a good boy. Though I might add that functionality later if people really want it. (or you can add it yourself if you'd like)
-Most of the kinks have been worked out, but he does occasionally get confused/stuck. If this happens, just click and hold on him and drag him for a moment. When you let go, he should be back to normal.
+Most of the kinks have been worked out (I think), but he does occasionally get confused/stuck. If this happens, just click and hold on him and drag him for a moment. When you let go, he should be back to normal.
 You can close him by right-clicking on him and selecting "Quit" from the menu that pops up or by finding him in your process manager and ending his process, he should show up as "ShimejiKazumi.
 
 How to customize:
