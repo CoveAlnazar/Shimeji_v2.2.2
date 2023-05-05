@@ -8,6 +8,7 @@ The download includes the versions for Windows, Mac, and Linux (I cannot guarant
 How to use:
 <p>Run the executable file by clicking on it or run the .sh file in Linux by opening the command line and navigating to the appropriate folder with the "cd" command and run the .sh file with the command "./ShimejiKazumi.sh"
 It might take a couple seconds to start up, so please be patient.
+If it doesn't work please feel free to message me on Tumblr, username is CoveAlnazar there too.
 After starting, Kazumi will walk, run, and jump around the edges of your screen. You can also drag him around by clicking and holding while moving the mouse.
 Unlike a typical Shimeji, he will NOT grab your windows and throw them around. He's a good boy. Though I might add that functionality later if people really want it. (or you can add it yourself if you'd like)
 Most of the kinks have been worked out (I think), but he does occasionally get confused/stuck. If this happens, just click and hold on him and drag him for a moment. When you let go, he should be back to normal.
