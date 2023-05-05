@@ -23,3 +23,6 @@ Can I share it?:
 <p>Sure! Just don't sell it!
 I'd like for anyone who wants to use it to be able to!
 You can share the base version or any customized version!
+
+Short version of the license?:
+<p>Basically, do not sell any version of this software, and if you share it, customized or not, credit me as CoveAlnazar.
