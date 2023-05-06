@@ -19,6 +19,7 @@ How to customize:
 Open the included project file "project.godot" from within the folder "shimeji_v2.2.2" with Godot.
 Replace the images in the "img" folder with your own, keeping the names the same.
 Feel free to mess with the code while you're in there!
+Then export to your chosen operating system.
 
 Can I share it?:
 <p>Sure! Just don't sell it!
