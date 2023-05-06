@@ -1,0 +1,24 @@
+[gd_scene load_steps=4 format=3 uid="uid://bc7iq88em7wvy"]
+
+[ext_resource type="Script" path="res://TransparentBackground.gd" id="1_a8jyj"]
+[ext_resource type="Texture2D" uid="uid://naw1ukso4k6e" path="res://img/shime_falling.png" id="2_bcvfu"]
+
+[sub_resource type="Theme" id="Theme_b8c8o"]
+default_font_size = 20
+
+[node name="Node2D" type="Node2D"]
+script = ExtResource("1_a8jyj")
+
+[node name="shimeji" type="Sprite2D" parent="."]
+texture = ExtResource("2_bcvfu")
+centered = false
+
+[node name="timer" type="Timer" parent="."]
+wait_time = 0.125
+autostart = true
+
+[node name="rightclick" type="PopupMenu" parent="."]
+theme = SubResource("Theme_b8c8o")
+
+[connection signal="timeout" from="timer" to="." method="_on_timer_timeout"]
+[connection signal="id_pressed" from="rightclick" to="." method="_on_rightclick_id_pressed"]
